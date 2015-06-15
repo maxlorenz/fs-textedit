@@ -14,6 +14,7 @@
             <MenuItem Header="_Datei">
                 <MenuItem Header="_Neu" x:Name="btnNew"/>
                 <MenuItem Header="_Speichern" x:Name="btnSave"/>
+                <MenuItem Header="Speichern _unter" x:Name="btnSaveAs"/>
                 <MenuItem Header="Ö_ffnen" x:Name="btnOpen"/>
                 <Separator/>
                 <MenuItem Header="_Beenden" x:Name="btnExit"/>

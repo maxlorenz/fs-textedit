@@ -52,7 +52,8 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Window1.xaml" />
+    <EmbeddedResource Include="Editor.xaml" />
+    <Compile Include="XAML.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
